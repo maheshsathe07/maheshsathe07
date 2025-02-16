@@ -17,7 +17,7 @@ I am committed to learning, growing, and contributing to impactful projects that
 
 ###
 
-<p align="left">🌱 I’m currently learning C#, ASP.Net, MERN Stack<br><br>👨‍💻 Portfolio: https://type.link/sathem205<br><br>📝 Coding Portfolio: https://codolio.com/profile/mahesh07<br><br>📫 How to reach me sathem0712@gmail.com@gmail.com</p>
+<p align="left">🌱 I’m currently learning C#, ASP.Net, MERN Stack<br><br>👨‍💻 Portfolio: https://type.link/sathem205<br><br>📝 Coding Portfolio: https://codolio.com/profile/mahesh07<br><br>📫 How to reach me sathem0712@gmail.com</p>
 
 ###
 
